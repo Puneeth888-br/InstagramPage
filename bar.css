@@ -1,0 +1,117 @@
+body{
+    background-color:black;
+}
+.logo-image-crop {
+   
+    margin-top: 0px;
+    height: 50px;
+}
+/* .margin p{
+    margin-top: 10px;
+    float: left;
+    color:white;
+    font-style: initial;
+    font-size: x-large;
+    padding-left: 20px;
+} */
+.top i{
+    margin-top: 0px;
+    float: right;
+    color:white;
+    font-size: xx-large;
+    padding-right: 20px;
+}
+.grid img {
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+
+}
+.grid{
+    padding-top: 30px;
+    display: flex;
+    padding-left: 10px;
+    justify-content:space-evenly;
+
+}
+.A figure{
+    color: white;
+     
+}
+.A img{
+    border:5px solid orangered;
+}
+.B img{
+    border:5px solid orangered;  
+}
+.B figure{
+    color: white;
+}
+.C figure{
+    color: white;
+}
+.D{
+    color: white;
+}
+.E figure{
+    color: white;
+}
+.F figure{
+    color: white;
+}
+.G figure{
+    color: white;
+}
+.H figure{
+    color: white;
+}
+.I figure{
+    color: white;
+}
+.J figure{
+    color: white;
+}
+.H figure{
+    color: white;
+}
+.I figure{
+    color: white;
+}
+.center img{
+    height: 400px;
+    width: 1500px;
+}
+.base{
+ 
+    margin-top: auto;
+    color: white;
+    font-size: x-large;
+   padding-right: 5px;
+   padding-top: 10px;
+}
+.save{
+   
+    color: white;
+    font-size: x-large;
+    float: right;
+    transform: rotate(90deg);
+    padding-right: 25px;
+  
+}
+
+
+
+.logo-image-crop img{
+    background-image: url("C:\Users\Nuthan Kumar HR\Desktop\puneeth\HTML\WBLlWbPOKZ9.png"); 
+    background-position: 0px 0px; 
+    background-size: 176px 264px; 
+    width: 174px; 
+    height: 50px; 
+    background-repeat: no-repeat; 
+    display: inline-block;
+    float:left;
+    margin-top: auto;
+   height: 50px;
+   width: 150px;
+}
